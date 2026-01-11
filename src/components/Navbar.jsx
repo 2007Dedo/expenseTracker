@@ -74,4 +74,5 @@ function Navbar({ toggleTheme, currentTheme, onCalcClick }) {
   );
 }
 
+
 export default Navbar;
